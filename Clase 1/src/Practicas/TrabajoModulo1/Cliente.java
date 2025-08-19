@@ -1,6 +1,4 @@
-package Practicas.TrabajoClases;
-import  Practicas.TrabajoClases.Producto;
-import  Practicas.TrabajoClases.Pedido;
+package Practicas.TrabajoModulo1;
 import java.util.ArrayList;
 import java.util.List;
 

@@ -1,6 +1,4 @@
-package Practicas.TrabajoClases;
-import Practicas.TrabajoClases.Producto;
-import Practicas.TrabajoClases.Cliente;
+package Practicas.TrabajoModulo1;
 import java.util.HashMap;
 import java.util.Map;
 public class Tienda {

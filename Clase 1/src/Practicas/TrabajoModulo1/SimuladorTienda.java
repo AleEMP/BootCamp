@@ -1,6 +1,4 @@
-package Practicas.TrabajoClases;
-import  Practicas.TrabajoClases.Tienda;
-import  Practicas.TrabajoClases.Cliente;
+package Practicas.TrabajoModulo1;
 import java.util.Scanner;
 import java.util.List;
 

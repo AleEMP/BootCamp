@@ -1,5 +1,4 @@
-package Practicas.TrabajoClases;
-import  Practicas.TrabajoClases.Producto;
+package Practicas.TrabajoModulo1;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;

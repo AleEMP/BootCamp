@@ -1,4 +1,4 @@
-package Practicas.TrabajoClases;
+package Practicas.TrabajoModulo1;
 
 public class Producto {
     private String id;
